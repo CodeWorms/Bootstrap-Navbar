@@ -1,0 +1,13 @@
+The Colors : 
+    1. Bootstrap's Primary Navbar Color : #7952b3
+    2. The color of links and icons : #ffffffd9
+    
+    
+The Icons and SVG : 
+    1. Bootstrap Icon : <i class="bi bi-bootstrap-fill"></i>
+    
+    2. First Icon : <i class="bi bi-github"></i>
+    3. Second Icon : <i class="bi bi-twitter"></i>
+    4. Third Icon : <i class="bi bi-slack"></i>
+    5. Fourth SVG : <svg xmlns="http://www.w3.org/2000/svg" width="17.61" height="17" fill="currentColor" fill-rule="evenodd" viewBox="0 0 40 41" role="img"          class="mx-3"><title>Open Collective</title><path fill-opacity=".4" d="M32.8 21c0 2.4-.8 4.9-2 6.9l5.1 5.1c2.5-3.4 4.1-7.6 4.1-12 0-4.6-1.6-8.8-4-12.2L30.7 14c1.2 2 2 4.3 2 7z"></path><path d="M20 33.7a12.8 12.8 0 0 1 0-25.6c2.6 0 5 .7 7 2.1L32 5a20 20 0 1 0 .1 31.9l-5-5.2a13 13 0 0 1-7 2z"></path></svg>
+    
